@@ -1,5 +1,21 @@
 this project for tracking crypto crance 
 <br>
+
+### Install composer
+```cmd
+composer install
+```
+### copy .env
+```cmd
+cp .env.example .env
+```
+
+### generate
+
+```cmd
+php artisan key:generate
+```
+
 # Routes :
 ```php
 
